@@ -7,7 +7,7 @@ Linha de pesquisa do [Green Cinnamon Labs](https://github.com/Green-Cinnamon-Lab
 ## O que sei hoje
 
 - Quero me aprofundar em Kubernetes, usando o gajeiro como caso de estudo.
-- A primeira implementação usou a [planta compartilhada do Tennessee Eastman](https://github.com/Green-Cinnamon-Labs/spec-tennessee-eastman).
+- A primeira implementação usou a [planta compartilhada do Tennessee Eastman](https://github.com/Batchuka/spec-tennessee-eastman).
 - A produção científica (TCC, artigos, plano do mestrado) fica em [`Batchuka/gajeiro-research`](https://github.com/Batchuka/gajeiro-research).
 
 Isto muda conforme eu avanço.
