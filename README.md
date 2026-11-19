@@ -27,6 +27,8 @@ A especificação se organiza em capacidades verificáveis. Uma implementação 
 
 ## Repositórios
 
+Ficam lado a lado em `C:\Projetos\gclabs\`, e o workspace é o [`gajeiro.code-workspace`](gajeiro.code-workspace).
+
 | Repositório | Papel |
 | --- | --- |
 | [`plant-supervisor`](https://github.com/Green-Cinnamon-Labs/plant-supervisor) | O supervisor: controlador Kubernetes em Go que avalia a planta contra a política declarada |

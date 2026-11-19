@@ -1,0 +1,10 @@
+{
+  "folders": [
+    { "name": "spec-gajeiro (hub e livro)", "path": "." },
+    { "name": "plant-supervisor", "path": "../plant-supervisor" },
+    { "name": "tep-lab", "path": "../tep-lab" },
+    { "name": "tep-historian (compartilhado com o Hefesto)", "path": "../tep-historian" },
+    { "name": "gajeiro-research (TCC, artigos, mestrado)", "path": "../gajeiro-research" }
+  ],
+  "settings": {}
+}
